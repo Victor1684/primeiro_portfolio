@@ -1,0 +1,70 @@
+body {
+  font-family: "Comic Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff8f0;
+  color: #000000;
+}
+
+.topo {
+  background: #000060;
+  color: #ffffff;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.topo h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.bloco {
+  background: #ffffff;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.bloco:hover {
+  transform: scale(1.02);
+}
+
+h2 {
+  color: #000000;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin: 0.8rem 0;
+  color: #444;
+}
+
+ul {
+  margin: 1rem 0 1rem 1.5rem;
+}
+
+a {
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.rodape {
+  text-align: center;
+  padding: 1rem;
+  background: #000060;
+  color: #ffffff;
+  margin-top: 2rem;
+}
